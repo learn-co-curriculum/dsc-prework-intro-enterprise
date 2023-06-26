@@ -1,10 +1,10 @@
-# Welcome to Prep.
+# Welcome to Deloitte AI Academy Prepwork
 
 Welcome to Flatiron School. We're thrilled that you've joined our community of learners.
 
 ## Goals of Prep
 
-We've set up a "prep" course for you to complete before your first day of the Data Science bootcamp.
+We've set up a "prep" course for you to complete before your first day of the four-week Intensive course, which will be followed by the twenty-week Apprenticeship course.
 
 This material is intended to help you prepare for the program, with an introduction to both the **technical content** and the **delivery format** you'll be using at Flatiron School.
 
@@ -16,13 +16,14 @@ What we don't do, however, is dumb anything down. We believe in your infinite ca
 
 From the beginning, we'll make sure you have the support and tools you need; you just need to bring the grit.
 
-The prep course focuses on foundational content that comes up again and again in the Data Science program:
+The prep course focuses on foundational content that comes up again and again in the AI Academy:
 
- - Python fundamentals
- - Descriptive statistics
- - Python libraries (NumPy and Matplotlib) for numerical computing and data visualization
+ - Pre-test
+ - Python essentials
+ - Python loops and functions
+ - Post-Test
 
-If you're getting stuck, keep in mind that we will also review these topics in the first week or so of the Data Science program. Make sure you keep notes on what was confusing, and prepare to ask questions when the program starts.
+If you're getting stuck, keep in mind that we will also review these topics in the first week or so of the Intensive. Make sure you keep notes on what was confusing, and prepare to ask questions when the program starts.
 
 ### Delivery Format
 
@@ -30,7 +31,7 @@ In addition to covering technical topics, the prep is also intended to help you 
 
 In general, think of the online material as the "textbook" that you'll read before lectures and use to practice your Data Science skills.
 
-Typically when learning something about code, you have to first deal with configuring your computer, getting it set up to work with the programming language you're writing in. This is often referred to as *setting up your environment*. You will have to do this eventually, but for now, **Canvas + SaturnCloud* will provide the environment you need to get started. We will give you a place to code within the browser; you get to focus on coding, not setup.
+Typically when learning something about code, you have to first deal with configuring your computer, getting it set up to work with the programming language you're writing in. This is often referred to as *setting up your environment*. You will have to do this for the Intensive course, but for now, **Canvas + SaturnCloud* will provide the environment you need to get started. We will give you a place to code within the browser; you get to focus on coding, not setup.
 
 The next lesson will cover how to use Canvas + SaturnCloud, including the different types of lessons, how to open lessons in SaturnCLoud, and how to view solution code.
 
@@ -93,6 +94,6 @@ Here are some best practices to follow when working through this material:
   
 ## Recap
 
-In this prep course you'll be introduced to some of the technical content and the delivery format used in the main Data Science course. Not only does completing the prep allow for an easier adjustment to the first few weeks, it also provides a solid foundation that allows better progress through the more-challenging material later on in the bootcamp, and ultimately to have a better capstone project to show to potential employers. Be intentional with your strategy as you move through the material, particularly how you use the solution code. We'll explain how to access that solution code in the next lesson.
+In this prep course you'll be introduced to some of the technical content and the delivery format used in the Intensive and Apprenticeship courses. Not only does completing the prep allow for an easier adjustment to the first few weeks, it also provides a solid foundation that allows better progress through the more-challenging material later on in the AI Academy. Be intentional with your strategy as you move through the material, particularly how you use the solution code. We'll explain how to access that solution code in the next lesson.
 
 Enjoy the prep, and good luck. 

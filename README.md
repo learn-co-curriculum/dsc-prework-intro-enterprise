@@ -49,7 +49,7 @@ After clicking, it should look like this:
 
 ### Required Lesson Completion
 
-Prep is the first **required** element of our data science curriculum. You are expected to complete, at minimum, all lessons through the end of the Statistical Measures section.
+Prep is the first **required** element of the AI Academy. You are expected to complete, at minimum, all lessons through the end of the Statistical Measures section.
 
 The way we **measure** lesson completion is based on you **clicking the "Mark as done" button** (pictured above) for each lesson. Don't worry too much about understanding 100% of the lesson content, and feel free to click the button once you've made a reasonable attempt — you can always come back and re-read it later.
 
@@ -57,17 +57,15 @@ The time you spend on each lesson (reading content, writing code, etc.) is up to
 
 ### Required Post-Test
 
-Once you have completed all lessons in the Statistical Measures section (as well as all lessons that come before it), the Assessment section will unlock. This section contains a single quiz: the post-test.
+Once you have completed all lessons in the two Python modules, the Assessment section will unlock. This section contains a single quiz: the post-test.
 
 The goal of the post-test is checking your understanding of the material, for both you and your Flatiron School instructors. After taking it, you will be able to see whether your answers were correct, along with explanations for each question.
 
 You are not required to score a particular number of points on the post-test prior to starting the program. The post-test is a diagnostic assessment that can help you understand what to study during the time before the program starts, and to help Flatiron School understand what kind of support you will need.
 
-Note: While you are not *required* to complete the Data Visualization section prior to taking the assessment, the assessment will include some questions about data visualization. If this is a new topic for you, or you're feeling "rusty", we encourage you to complete all sections before taking the post-test.
-
 #### Troubleshooting Post-Test Access
 
-If you think that the post-test should be unlocked but are having trouble accessing it, double-check that you have completed all of the prerequisites. In other words, the Introduction, Python Essentials, Python Loops & Functions, and Statistical Measures sections should all look like this:
+If you think that the post-test should be unlocked but are having trouble accessing it, double-check that you have completed all of the prerequisites. In other words, the Introduction, Python Essentials, and Python Loops & Functions modules should all look like this:
 
 .[section completed](https://github.com/learn-co-curriculum/dsc-prework-intro/raw/b3feece3ce125ec15651b775bec2512afc72d276/images/section_completed.png)
 

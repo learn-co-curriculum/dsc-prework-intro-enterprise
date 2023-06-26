@@ -6,7 +6,7 @@ Welcome to Flatiron School. We're thrilled that you've joined our community of l
 
 We've set up a "prep" course for you to complete before your first day of the four-week Intensive course, which will be followed by the twenty-week Apprenticeship course.
 
-This material is intended to help you prepare for the program, with an introduction to both the **technical content** and the **delivery format** you'll be using at Flatiron School.
+This material is intended to help you prepare for the program, with an introduction to both the **technical content** and the **delivery format** you'll be using at Flatiron School. It is expected to take you about 16 hours.
 
 ### Technical Content
 

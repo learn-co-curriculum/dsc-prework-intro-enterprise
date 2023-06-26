@@ -31,7 +31,7 @@ In addition to covering technical topics, the prep is also intended to help you 
 
 In general, think of the online material as the "textbook" that you'll read before lectures and use to practice your Data Science skills.
 
-Typically when learning something about code, you have to first deal with configuring your computer, getting it set up to work with the programming language you're writing in. This is often referred to as *setting up your environment*. You will have to do this for the Intensive course, but for now, **Canvas + SaturnCloud* will provide the environment you need to get started. We will give you a place to code within the browser; you get to focus on coding, not setup.
+Typically when learning something about code, you have to first deal with configuring your computer, getting it set up to work with the programming language you're writing in. This is often referred to as *setting up your environment*. You will have to do this for the Intensive course, but for now, *Canvas + SaturnCloud* will provide the environment you need to get started. We will give you a place to code within the browser; you get to focus on coding, not setup.
 
 The next lesson will cover how to use Canvas + SaturnCloud, including the different types of lessons, how to open lessons in SaturnCLoud, and how to view solution code.
 

@@ -39,11 +39,11 @@ For now, all you need to know is that every time you complete a lesson on Canvas
 
 Before clicking, the button should look like this:
 
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/done.png/done.png" width=70>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/done.png/done.png" width=75>
 
 After clicking, it should look like this:
 
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/mark_as_done.png/mark_as_done.png" width=70>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/mark_as_done.png/mark_as_done.png" width=75>
 
 ## Prep Expectations for Students
 
@@ -67,7 +67,7 @@ You are not required to score a particular number of points on the post-test pri
 
 If you think that the post-test should be unlocked but are having trouble accessing it, double-check that you have completed all of the prerequisites. In other words, the Introduction, Python Essentials, and Python Loops & Functions modules should all look like this:
 
-<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/section_completed.png/section_completed.png" width=70>
+<img src="https://curriculum-content.s3.amazonaws.com/data-science/images/section_completed.png/section_completed.png" width=80>
 
 If you don't see the green check mark, it means you haven't completed that section. In order to access the post-test, make sure you have marked everything as done.
 

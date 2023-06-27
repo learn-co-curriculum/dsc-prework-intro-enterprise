@@ -13,7 +13,7 @@ This material is intended to help you prepare for the program, with an introduct
 Many people in our program have already spent some time dabbling with coding and data analysis by using the amazing and plentiful resources all around the internet. In developing the content here, though, we make no assumptions about background. This prep content is designed for those who have analytic ability but not any specific coding skill. Lessons build off each other, providing the tools and concepts necessary to complete future lessons.
 
 What we don't do, however, is dumb anything down. We believe in your infinite capacity to learn. We do our best to offer a curriculum that is clear, digestible, engaging, challenging, and deep. The curriculum you'll encounter at Flatiron School is rigorous and will demand that you be patient, resourceful, and gritty.
-
+ 
 From the beginning, we'll make sure you have the support and tools you need; you just need to bring the grit.
 
 The prep course focuses on foundational content that comes up again and again in the AI Academy:
@@ -21,7 +21,7 @@ The prep course focuses on foundational content that comes up again and again in
  - Python essentials
  - Python loops and functions
 
-Additionally, there is a pre-test to help you gauge your knowledge before the pre-work starts, and a post-test to ensure that you've absorbed enough of the course content.
+Additionally, there is a pre-test to help you gauge your knowledge before the prework starts, and a post-test to ensure that you've absorbed enough of the course content.
 
 If you're getting stuck, keep in mind that we will also review these topics in the first week or so of the Intensive. Make sure you keep notes on what was confusing, and prepare to ask questions when the program starts.
 

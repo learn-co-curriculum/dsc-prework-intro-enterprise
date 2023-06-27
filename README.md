@@ -33,7 +33,7 @@ In general, think of the online material as the "textbook" that you'll read befo
 
 Typically when learning something about code, you have to first deal with configuring your computer, getting it set up to work with the programming language you're writing in. This is often referred to as *setting up your environment*. You will have to do this for the Intensive course, but for now, *Canvas + SaturnCloud* will provide the environment you need to get started. We will give you a place to code within the browser; you get to focus on coding, not setup.
 
-The next lesson will cover how to use Canvas + SaturnCloud, including the different types of lessons, how to open lessons in SaturnCLoud, and how to view solution code.
+The next lesson will cover how to use Canvas + SaturnCloud, including the different types of lessons, how to open lessons in SaturnCloud, and how to view solution code.
 
 For now, all you need to know is that every time you complete a lesson on Canvas — including this one. — you should click the "Mark as done" button on that page, so we can track your progress.
 

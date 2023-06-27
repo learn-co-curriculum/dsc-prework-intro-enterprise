@@ -39,7 +39,7 @@ For now, all you need to know is that every time you complete a lesson on Canvas
 
 Before clicking, the button should look like this:
 
-.[mark as done button](https://github.com/learn-co-curriculum/dsc-prework-intro/raw/b3feece3ce125ec15651b775bec2512afc72d276/images/mark_as_done.png)
+<img src="[https://curriculum-content.s3.amazonaws.com/data-science/images/page.png/page.png](https://curriculum-content.s3.amazonaws.com/data-science/images/done.png/done.png)\" width=70>
 
 After clicking, it should look like this:
 

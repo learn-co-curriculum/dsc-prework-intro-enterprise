@@ -18,10 +18,10 @@ From the beginning, we'll make sure you have the support and tools you need; you
 
 The prep course focuses on foundational content that comes up again and again in the AI Academy:
 
- - Pre-test
  - Python essentials
  - Python loops and functions
- - Post-Test
+
+Additionally, there is a pre-test to help you gauge your knowledge before the pre-work starts, and a post-test to ensure that you've absorbed enough of the course content.
 
 If you're getting stuck, keep in mind that we will also review these topics in the first week or so of the Intensive. Make sure you keep notes on what was confusing, and prepare to ask questions when the program starts.
 
@@ -61,7 +61,7 @@ Once you have completed all lessons in the two Python modules, the Assessment se
 
 The goal of the post-test is checking your understanding of the material, for both you and your Flatiron School instructors. After taking it, you will be able to see whether your answers were correct, along with explanations for each question.
 
-You are not required to score a particular number of points on the post-test prior to starting the program. The post-test is a diagnostic assessment that can help you understand what to study during the time before the program starts, and to help Flatiron School understand what kind of support you will need.
+You are not required to score a particular number of points on the post-test prior to starting the program, but it is expected that you score at least a 90% on it. The post-test is a diagnostic assessment that can help you understand what to study during the time before the program starts, and to help Flatiron School understand what kind of support you will need.
 
 #### Troubleshooting Post-Test Access
 
